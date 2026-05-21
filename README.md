@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Yash Vardhan Singh 👋
 
-<!--
-**Yashsingh0607/Yashsingh0607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech IT Student | Java Developer | Cybersecurity & AI Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 About Me
+- Interested in Cryptography, Cybersecurity, and Secure Systems
+- Currently exploring AI and Machine Learning
+- Solved 250+ DSA problems
+- Building Java-based security projects
+- NPTEL Certified in Java, DSA, and Cryptography
+
+---
+
+## 🚀 Tech Stack
+- Java
+- Python
+- Git
+- Linux
+- Data Structures & Algorithms
+- Cryptography
+
+---
+
+## 🔥 Featured Projects
+
+### 🔐 Secure File Encrypter
+AES-CBC based file encryption tool using PBKDF2 and secure key derivation.
+
+### 🔑 Cryptography Implementations
+Implemented Caesar Cipher and Substitution Cipher in Java.
+
+---
+
+## 📫 Connect With Me
+GitHub: https://github.com/Yashsingh0607  
+Codefolio: https://codolio.com/profile/yash_singh
