@@ -7,7 +7,7 @@ B.Tech IT Student | Java Developer | Cybersecurity & AI Enthusiast
 ## 🔐 About Me
 - Interested in Cryptography, Cybersecurity, and Secure Systems
 - Currently exploring AI and Machine Learning
-- Solved 250+ DSA problems
+- Solved 500+ DSA problems
 - Building Java-based security projects
 - NPTEL Certified in Java, DSA, and Cryptography
 
