@@ -75,7 +75,7 @@ Also in Java: **Cryptography Implementations**, covering the Caesar cipher and t
 
 <img src="https://img.shields.io/badge/Problems_solved-1000+-D4A017?style=for-the-badge&labelColor=05060A" alt="Problems solved" />
 <img src="https://img.shields.io/badge/CodeChef-1421-D4A017?style=for-the-badge&logo=codechef&logoColor=white&labelColor=05060A" alt="CodeChef rating" />
-<img src="https://img.shields.io/badge/Codeforces-1430-D4A017?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=05060A" alt="Codeforces rating" />
+<img src="https://img.shields.io/badge/Codeforces-1236-D4A017?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=05060A" alt="Codeforces rating" />
 <img src="https://img.shields.io/badge/LeetCode-1583-D4A017?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=05060A" alt="LeetCode contest rating" />
 
 <sub>Ratings are the current profile ratings. Full Stats on <a href="https://codolio.com/profile/yash_singh">Codolio</a>.</sub>
